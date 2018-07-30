@@ -1,0 +1,28 @@
+body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+    color: black;
+}
+
+.btn btn-primary {
+	text-align: center;
+    text-color: white;
+    background-color: blue;
+    border: 2px solid black;
+    
+.btn btn-primary a {
+  cursor: pointer;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+
+}
+
+.btn btn-primary a:active {
+  top: 2px;
+
+}
